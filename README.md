@@ -1,6 +1,8 @@
 # SAL 603 Final Project
  For my final project I examined what NHL teams performed the best and worst during the 2010s. Video Presentation: "https://www.youtube.com/watch?v=AeeDbRcYLn8"
 
+## Created by Michael Wilson
+
 `final_project_v2.ipynb`
 Includes code to create visualizations of team performance from 2010-2019.
 
